@@ -1,0 +1,226 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"1a77ab65-0335-4b25-885e-97cd7cca21e9\" name=\"Changes\" comment=\"Pierwszy zapis do repozytorium\">\r\n      <change afterPath=\"$PROJECT_DIR$/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/.gitignore\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/MikolajLukomski/AEH_PP25L_LUKOMSKI_62289\",\r\n    \"accountId\": \"dd79e609-8c1f-464d-bff7-378e8583e1d5\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 8\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2uEXX7cF4hpWTkPxKuEKYG9rgfk\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.mojaPierwszaAplikacja.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"git-widget-placeholder\": \"Lab1\",\r\n    \"kotlin-language-version-configured\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"1a77ab65-0335-4b25-885e-97cd7cca21e9\" name=\"Changes\" comment=\"\" />\r\n      <created>1741814747079</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1741814747079</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Pierwszy zapis do repozytorium\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1741815273286</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1741815273286</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"Lab1\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Pierwszy zapis do repozytorium\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Pierwszy zapis do repozytorium\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision fc02ae7d20d6e35cf5d72520a0e88e97b7243ea7)
++++ b/.idea/workspace.xml	(date 1742945389625)
+@@ -4,9 +4,11 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="1a77ab65-0335-4b25-885e-97cd7cca21e9" name="Changes" comment="Pierwszy zapis do repozytorium">
+-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
++    <list default="true" id="1a77ab65-0335-4b25-885e-97cd7cca21e9" name="Changes" comment="Pierwszy zapis do repozytorium LAB 3">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/mojaDrugaAplikacja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/pp/mojaDrugaAplikacja.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/pl/pp/Zadanie11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/pp/Zadanie11.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/pl/pp/zadanie22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/pp/zadanie12.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -23,20 +25,29 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="master" />
++        <entry key="$PROJECT_DIR$" value="Lab2" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GithubPullRequestsUISettings"><![CDATA[{
+-  "selectedUrlAndAccountId": {
+-    "url": "https://github.com/MikolajLukomski/AEH_PP25L_LUKOMSKI_62289",
+-    "accountId": "dd79e609-8c1f-464d-bff7-378e8583e1d5"
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;MikolajLukomski&quot;
+   }
+-}]]></component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 8
+-}]]></component>
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/MikolajLukomski/AEH_PP25L_LUKOMSKI_62289&quot;,
++    &quot;accountId&quot;: &quot;dd79e609-8c1f-464d-bff7-378e8583e1d5&quot;
++  }
++}</component>
++  <component name="ProblemsViewState">
++    <option name="selectedTabId" value="CurrentFile" />
++  </component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 8
++}</component>
+   <component name="ProjectId" id="2uEXX7cF4hpWTkPxKuEKYG9rgfk" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectViewState">
+@@ -45,13 +56,39 @@
+   </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
++    "Application.Zadanie1i2wLAB3.executor": "Debug",
++    "Application.Zadanie21.executor": "Run",
++    "Application.Zadanie21oraz22.executor": "Run",
++    "Application.mojaDrugaAplikacja.executor": "Run",
+     "Application.mojaPierwszaAplikacja.executor": "Run",
++    "Application.mojaTrzeciaAplikacja.executor": "Run",
++    "Application.zadanie22.executor": "Run",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "RunOnceActivity.git.unshallow": "true",
+-    "git-widget-placeholder": "Lab1",
++    "git-widget-placeholder": "LAB3",
+     "kotlin-language-version-configured": "true"
+   }
+ }]]></component>
++  <component name="RunManager">
++    <configuration name="Zadanie1i2wLAB3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="pl.pp.Zadanie1i2wLAB3" />
++      <module name="Hello PP" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="pl.pp.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Application.Zadanie1i2wLAB3" />
++      </list>
++    </recent_temporary>
++  </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -69,12 +106,97 @@
+       <option name="project" value="LOCAL" />
+       <updated>1741815273286</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="Pierwszy zapis do repozytorium">
++      <option name="closed" value="true" />
++      <created>1741816302149</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1741816302149</updated>
++    </task>
++    <task id="LOCAL-00003" summary="Drugi zapis do repozytorium">
++      <option name="closed" value="true" />
++      <created>1742329955357</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1742329955357</updated>
++    </task>
++    <task id="LOCAL-00004" summary="Zadanie 2.1">
++      <option name="closed" value="true" />
++      <created>1742331795474</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1742331795474</updated>
++    </task>
++    <task id="LOCAL-00005" summary="Zadanie 2.2">
++      <option name="closed" value="true" />
++      <created>1742333672924</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1742333672924</updated>
++    </task>
++    <task id="LOCAL-00006" summary="Pierwszy zapis do repozytorium LAB 3">
++      <option name="closed" value="true" />
++      <created>1742851847360</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1742851847360</updated>
++    </task>
++    <task id="LOCAL-00007" summary="Pierwszy zapis do repozytorium LAB 3">
++      <option name="closed" value="true" />
++      <created>1742945255870</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1742945255870</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
++    <option name="OPEN_GENERIC_TABS">
++      <map>
++        <entry key="0b10f5c0-3ce1-4efa-b6f9-3a1c69e42ccd" value="TOOL_WINDOW" />
++      </map>
++    </option>
++    <option name="RECENT_FILTERS">
++      <map>
++        <entry key="Branch">
++          <value>
++            <list>
++              <RecentGroup>
++                <option name="FILTER_VALUES">
++                  <option value="origin/LAB3" />
++                </option>
++              </RecentGroup>
++            </list>
++          </value>
++        </entry>
++      </map>
++    </option>
+     <option name="TAB_STATES">
+       <map>
++        <entry key="0b10f5c0-3ce1-4efa-b6f9-3a1c69e42ccd">
++          <value>
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="origin/LAB3" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
++          </value>
++        </entry>
+         <entry key="MAIN">
+           <value>
+             <State>
+@@ -83,7 +205,7 @@
+                   <entry key="branch">
+                     <value>
+                       <list>
+-                        <option value="Lab1" />
++                        <option value="LAB3" />
+                       </list>
+                     </value>
+                   </entry>
+@@ -97,6 +219,10 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Pierwszy zapis do repozytorium" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Pierwszy zapis do repozytorium" />
++    <MESSAGE value="Drugi zapis do repozytorium" />
++    <MESSAGE value="Zadanie 2.1" />
++    <MESSAGE value="Zadanie 2.2" />
++    <MESSAGE value="Pierwszy zapis do repozytorium LAB 3" />
++    <option name="LAST_COMMIT_MESSAGE" value="Pierwszy zapis do repozytorium LAB 3" />
+   </component>
+ </project>
+\ No newline at end of file

@@ -1,0 +1,16 @@
+Index: src/pl/pp/mojaDrugaAplikacja.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package pl.pp;\r\n\r\npublic class mojaDrugaAplikacja {\r\n    public mojaDrugaAplikacja() {\r\n    }\r\n\r\n    public static void main(String[] args) {\r\n\r\n        double x = 10;\r\n\r\n        var result = x + x;\r\n\r\n        result = x ;\r\n        System.out.println(\"x = \" + result);\r\n\r\n        result = x + x;\r\n        System.out.println(\"2x = \" + result);\r\n\r\n        result = x * x;\r\n        System.out.println(\"x^2 = \" + result);\r\n\r\n\r\n    }\r\n}\r\n
+===================================================================
+diff --git a/src/pl/pp/mojaDrugaAplikacja.java b/src/pl/pp/mojaDrugaAplikacja.java
+--- a/src/pl/pp/mojaDrugaAplikacja.java	(revision 3c53127babde009dcfe51b07aabc8df97ec08b9d)
++++ b/src/pl/pp/mojaDrugaAplikacja.java	(date 1742333571408)
+@@ -1,5 +1,7 @@
+ package pl.pp;
+ 
++import java.util.Scanner;
++
+ public class mojaDrugaAplikacja {
+     public mojaDrugaAplikacja() {
+     }

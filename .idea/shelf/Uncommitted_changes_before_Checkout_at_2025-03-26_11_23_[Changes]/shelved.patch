@@ -1,0 +1,37 @@
+Index: src/pl/pp/Zadanie11.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package pl.pp;\r\n\r\npublic class mojaDrugaAplikacja {\r\n    public mojaDrugaAplikacja() {\r\n    }\r\n\r\n    public static void main(String[] args) {\r\n\r\n        double x = 10;\r\n\r\n        var result = x + x;\r\n\r\n        result = x ;\r\n        System.out.println(\"x = \" + result);\r\n\r\n        result = x + x;\r\n        System.out.println(\"2x = \" + result);\r\n\r\n        result = x * x;\r\n        System.out.println(\"x^2 = \" + result);\r\n\r\n\r\n    }\r\n}\r\n
+===================================================================
+diff --git a/src/pl/pp/Zadanie11.java b/src/pl/pp/Zadanie11.java
+--- a/src/pl/pp/Zadanie11.java	(revision fc02ae7d20d6e35cf5d72520a0e88e97b7243ea7)
++++ b/src/pl/pp/Zadanie11.java	(date 1742333888974)
+@@ -1,7 +1,7 @@
+ package pl.pp;
+ 
+-public class mojaDrugaAplikacja {
+-    public mojaDrugaAplikacja() {
++public class Zadanie11 {
++    public Zadanie11() {
+     }
+ 
+     public static void main(String[] args) {
+Index: src/pl/pp/zadanie22.java
+===================================================================
+diff --git a/src/pl/pp/zadanie22.java b/src/pl/pp/zadanie12.java
+rename from src/pl/pp/zadanie22.java
+rename to src/pl/pp/zadanie12.java
+--- a/src/pl/pp/zadanie22.java	(revision fc02ae7d20d6e35cf5d72520a0e88e97b7243ea7)
++++ b/src/pl/pp/zadanie12.java	(date 1742931891250)
+@@ -2,7 +2,7 @@
+ 
+ import java.util.Scanner;
+ 
+-public class zadanie22 {
++public class zadanie12 {
+     public static void main(String[]  args) {
+ 
+         Scanner scanner = new Scanner(System.in);
+diff --git a/src/mojaDrugaAplikacja.java b/src/pl/pp/mojaDrugaAplikacja.java
+rename from src/mojaDrugaAplikacja.java
+rename to src/pl/pp/mojaDrugaAplikacja.java
