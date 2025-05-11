@@ -1,0 +1,36 @@
+package pl.pp;
+
+public class circle3 {
+
+    private double radius;
+
+    public circle3() {
+    }
+
+
+    public circle3(double radius) {
+        this.radius = radius;
+    }
+
+
+    public double getRadius() {
+        return radius;
+    }
+
+
+    public void setRadius(double radius) {
+        this.radius = radius;
+    }
+
+    public double area() {
+        return Math.PI * Math.pow(radius, 2);
+    }
+
+    public double circumference() {
+        return 2 * Math.PI * radius;
+    }
+
+    public void getInfo() {
+        System.out.println("Circle with radius = " + radius + ", area = " + area() + " and circumference = " + circumference());
+    }
+}
