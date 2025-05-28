@@ -1,3 +1,5 @@
+package pl.pp;
+
 import java.io.*;
 import java.util.Scanner;
 
@@ -28,8 +30,8 @@ public class mojaDwunastaAplikacja {
 
 
             try (BufferedWriter writer = new BufferedWriter(new FileWriter(outputPath))) {
-                writer.write("Nazwa pliku: " + inputPath + "\n");
-                writer.write("Liczba linii: " + lineCount + "\n");
+                writer.write("Nazwa pliku: " + inputPath + "");
+                writer.write("Liczba linii: " + lineCount + "");
             }
 
             System.out.println("Wynik zapisany do pliku: " + outputPath);
